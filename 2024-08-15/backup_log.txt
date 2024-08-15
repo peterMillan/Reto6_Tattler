@@ -1,0 +1,7 @@
+2024-08-15T08:52:04.396-0600	WARNING: On some systems, a password provided directly in a connection string or using --uri may be visible to system status programs such as `ps` that may be invoked by other users. Consider omitting the password to provide it via stdin, or using the --config option to specify a configuration file with the password.
+2024-08-15T08:52:06.499-0600	writing tattler.tattlers to dump\tattler\tattlers.bson
+2024-08-15T08:52:06.593-0600	writing tattler.restaurants to dump\tattler\restaurants.bson
+2024-08-15T08:52:06.779-0600	writing tattler.ratings to dump\tattler\ratings.bson
+2024-08-15T08:52:06.955-0600	done dumping tattler.tattlers (3 documents)
+2024-08-15T08:52:06.988-0600	done dumping tattler.restaurants (4 documents)
+2024-08-15T08:52:06.991-0600	done dumping tattler.ratings (4 documents)
